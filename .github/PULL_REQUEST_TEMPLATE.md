@@ -1,5 +1,5 @@
 ### ToDo
 
 - [ ] Add unit (and integration) tests
-- [ ] Rum formatter, inspections and code coverage
+- [ ] Run formatter, inspection and coverage
 - [ ] Add documentation to readme
